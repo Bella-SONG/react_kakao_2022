@@ -1,0 +1,92 @@
+[
+	{
+		"id": 0,
+		"name": "Bella",
+		"email": "Bella@mail.com",
+		"profileMsg": "Tomorrow will be better",
+		"lastMsg": "It will be better",
+		"profileImg": "https://i.pinimg.com/474x/60/ff/11/60ff1137e3370f3742e04cc644c32592.jpg",
+		"backgroundImg": "https://i.pinimg.com/474x/3c/70/f2/3c70f2fb04d5633ab1254f4fdc8af423.jpg"
+	},
+	{
+		"id": 2,
+		"name": "Jane",
+		"email": "Jane@email.com",
+		"profileMsg": "Hi",
+		"lastMsg": " Nice to meet you",
+		"profileImg": "https://i.pinimg.com/474x/33/a2/d4/33a2d4e2aef856528a8696e83651e5a9.jpg",
+		"backgroundImg": "https://i.pinimg.com/474x/67/57/d9/6757d9bc5039edfb05bc658777e55cba.jpg"
+	},
+	{
+		"id": 3,
+		"name": "Mai",
+		"email": "Mai @email.com",
+		"profileMsg": ":D",
+		"lastMsg": "I saw you Last night!",
+		"profileImg": "https://i.pinimg.com/236x/fa/ce/d5/faced503801266fd768440ad1a5db828.jpg",
+		"backgroundImg": "https://i.pinimg.com/564x/03/b8/e6/03b8e66569fca239b13b7d52acb63aa9.jpg"
+	},
+	{
+		"id": 4,
+		"name": "Katie",
+		"email": "Katie@email.com",
+		"profileMsg": "Holymoly",
+		"lastMsg": "Hello",
+		"profileImg": "https://i.pinimg.com/474x/36/0e/6e/360e6e1318dd257c51f01f37cf27c862.jpg",
+		"backgroundImg": "https://i.pinimg.com/474x/67/57/d9/6757d9bc5039edfb05bc658777e55cba.jpg"
+	},
+	{
+		"id": 5,
+		"name": "July",
+		"email": "July@email.com",
+		"profileMsg": "hey",
+		"lastMsg": "How have u been",
+		"profileImg": "https://i.pinimg.com/236x/40/43/aa/4043aaade0a95f75b2bb443a690413e3.jpg",
+		"backgroundImg": "https://i.pinimg.com/474x/d2/ae/d3/d2aed38d8d65b4ba3a8b28e5e5449015.jpg"
+	},
+	{
+		"id": 6,
+		"name": "Lucy",
+		"email": "Lucy@email.com",
+		"profileMsg": "beauty",
+		"lastMsg": "Hey, Where r u? ",
+		"profileImg": "https://i.pinimg.com/474x/8e/ee/2d/8eee2d48a3613f6cf97716cbb5a24a65.jpg",
+		"backgroundImg": "https://i.pinimg.com/474x/b9/af/3f/b9af3f85cdd835299e6d3248eef7a154.jpg"
+	},
+	{
+		"id": 7,
+		"name": "Mrs. Dennis Schulist",
+		"email": "Dennis_Schulist@jasper.info",
+		"profileMsg": "Finding",
+		"lastMsg": "See ya",
+		"profileImg": "https://i.pinimg.com/236x/26/9d/69/269d690b4edcd731c1c7d01d7d2d0214.jpg",
+		"backgroundImg": "https://i.pinimg.com/474x/8a/77/ec/8a77ec1e8cb95a5074fba3bbda02adb9.jpg"
+	},
+	{
+		"id": 8,
+		"name": "Anne",
+		"email": "Anne @email.com",
+		"profileMsg": "Happy",
+		"lastMsg": "Don't worry",
+		"profileImg": "https://i.pinimg.com/474x/36/0e/6e/360e6e1318dd257c51f01f37cf27c862.jpg",
+		"backgroundImg": "https://i.pinimg.com/474x/93/05/af/9305af58d71a344a9a409969d71c0faf.jpg"
+	},
+	{
+		"id": 9,
+		"name": "Drake",
+		"email": "Drake @email.com",
+		"profileMsg": "Love",
+		"lastMsg": "Love you",
+		"profileImg": "https://i.pinimg.com/474x/c1/a1/b4/c1a1b4dacb3d3b62b6558bd5da525e21.jpg",
+		"backgroundImg": "https://i.pinimg.com/474x/50/13/6b/50136bee2106d1b290347a9314656010.jpg"
+	},
+	{
+		"id": 10,
+		"name": "Andrew",
+		"email": "Andrew @email.com",
+		"profileMsg": "Stay",
+		"lastMsg": "Will you be free on the weekend?",
+		"profileImg": "https://i.pinimg.com/236x/44/db/f1/44dbf1ef087bf1c342fb965356046361.jpg",
+		"backgroundImg": "https://i.pinimg.com/474x/b9/48/18/b948183da832d70748ae7e76735e848e.jpg"
+	}
+]
